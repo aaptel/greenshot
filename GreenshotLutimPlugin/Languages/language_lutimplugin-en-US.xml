@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language description="English" ietf="en-US" version="1.0.0">
+  <resources>
+    <resource name="OK">
+      OK
+    </resource>
+    <resource name="CANCEL">
+      Cancel
+    </resource>
+    <resource name="upload_menu_item">
+      Upload to Lutim host
+    </resource>
+    <resource name="settings_title">
+      Lutim settings
+    </resource>
+    <resource name="label_host">
+      Lutim host URL
+    </resource>
+    <resource name="server_error_unknown">
+      Unknown server error
+    </resource>
+    <resource name="server_error">
+      Unknown server error
+    </resource>
+  </resources>
+</language>
